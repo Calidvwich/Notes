@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 200
   },
   "right": {
     "id": "f716044b054d0499",
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +187,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aa99d3dd3a2145d5",
+  "active": "57e2dfa27a9844ea",
   "lastOpenFiles": [
     "操作系统/操作系统初步.md",
     "rust/1. rust 初步和cargo的作用.md",
