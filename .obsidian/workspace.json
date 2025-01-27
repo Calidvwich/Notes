@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "28b0bb36622bb606",
+    "type": "split",
+    "children": [
+      {
+        "id": "55d0515327f9ddb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e2dfa27a9844ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/操作系统初步.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "操作系统初步"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a6f54d1f7ec837e",
+    "type": "split",
+    "children": [
+      {
+        "id": "030d78b94dc3ff95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ca8f780d69b7bbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aa99d3dd3a2145d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ee82c5d123c55e63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "f716044b054d0499",
+    "type": "split",
+    "children": [
+      {
+        "id": "aff460716652caa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "682fdfb6edf3bc39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. 基础结构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2. 基础结构 的反向链接列表"
+            }
+          },
+          {
+            "id": "e1d1c9da09893308",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. 基础结构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2. 基础结构 的出链列表"
+            }
+          },
+          {
+            "id": "d29864f893a30edd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "63e0b3cadc775bb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. 基础结构.md"
+              },
+              "icon": "lucide-list",
+              "title": "2. 基础结构 的大纲"
+            }
+          },
+          {
+            "id": "71db02c4248d1d35",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "452c50bbcfb0c32f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "aa99d3dd3a2145d5",
+  "lastOpenFiles": [
+    "操作系统/操作系统初步.md",
+    "rust/1. rust 初步和cargo的作用.md",
+    "rust/2. 基础结构.md",
+    "1. rust 初步和cargo的作用.md",
+    "2. 基础结构.md",
+    "欢迎.md"
+  ]
+}
