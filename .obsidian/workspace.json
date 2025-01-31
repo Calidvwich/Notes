@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/操作系统初步.md",
+                "file": "操作系统/速通预习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统初步"
+              "title": "速通预习"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -73,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,9 +189,11 @@
   },
   "active": "57e2dfa27a9844ea",
   "lastOpenFiles": [
+    "Pasted image 20250131192913.png",
     "操作系统/操作系统初步.md",
-    "rust/1. rust 初步和cargo的作用.md",
+    "操作系统/速通预习.md",
     "rust/2. 基础结构.md",
+    "rust/1. rust 初步和cargo的作用.md",
     "1. rust 初步和cargo的作用.md",
     "2. 基础结构.md",
     "欢迎.md"
