@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习/机器学习.md",
+                "file": "git同步操作手册.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机器学习"
+              "title": "git同步操作手册"
             }
           }
         ],
@@ -218,12 +218,20 @@
   },
   "active": "baac84290e947e22",
   "lastOpenFiles": [
+    "操作系统/速通预习.md",
+    "操作系统/Pasted image 20250201190604.png",
+    "操作系统/Pasted image 20250201185539.png",
+    "操作系统/Pasted image 20250201174100.png",
+    "操作系统/Pasted image 20250201173948.png",
+    "操作系统/操作系统初步.md",
+    "操作系统/Pasted image 20250201165604.png",
+    "操作系统/Pasted image 20250201165549.png",
+    "git同步操作手册.md",
+    "操作系统/Pasted image 20250201140352.png",
+    "操作系统/Pasted image 20250131192913.png",
+    "rust/2. 基础结构.md",
     "数据结构/数据结构整理.md",
     "机器学习/机器学习.md",
-    "操作系统/速通预习.md",
-    "Pasted image 20250131192913.png",
-    "操作系统/操作系统初步.md",
-    "rust/2. 基础结构.md",
     "rust/1. rust 初步和cargo的作用.md",
     "1. rust 初步和cargo的作用.md",
     "2. 基础结构.md",
