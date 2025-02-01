@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git同步操作手册.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git同步操作手册"
+              "title": "README"
             }
           }
         ],
@@ -218,6 +218,9 @@
   },
   "active": "baac84290e947e22",
   "lastOpenFiles": [
+    "git同步操作手册.md",
+    "README.md",
+    "readme.md",
     "操作系统/速通预习.md",
     "操作系统/Pasted image 20250201190604.png",
     "操作系统/Pasted image 20250201185539.png",
@@ -226,7 +229,6 @@
     "操作系统/操作系统初步.md",
     "操作系统/Pasted image 20250201165604.png",
     "操作系统/Pasted image 20250201165549.png",
-    "git同步操作手册.md",
     "操作系统/Pasted image 20250201140352.png",
     "操作系统/Pasted image 20250131192913.png",
     "rust/2. 基础结构.md",
