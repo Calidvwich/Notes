@@ -6,5 +6,8 @@
   "omnisearch",
   "obsidian-mind-map",
   "highlightr-plugin",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "obsidian-linter",
+  "templater-obsidian",
+  "dataview"
 ]
